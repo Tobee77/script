@@ -1,6 +1,8 @@
 {
     "recommendations": [
         "github.codespaces",
-        "vscjava.vscode-gradle"
+        "vscjava.vscode-gradle",
+        "golang.go",
+        "platformio.platformio-ide"
     ]
 }

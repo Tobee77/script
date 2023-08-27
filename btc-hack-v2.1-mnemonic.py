@@ -22,7 +22,7 @@ import base64
 
 start_time = datetime.datetime.now()
 
-def bip(num):
+def bip(num):bc1qa5wkgaew2dkv56kfvj49j0av5nml45x9ek9hz6
     with open('BIP0039.txt', 'r') as f:
         words = f.read().split()
         for word in words:
